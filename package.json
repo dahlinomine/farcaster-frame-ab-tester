@@ -1,0 +1,14 @@
+{
+  "name": "farcaster-frame-ab-tester",
+  "version": "0.1.0",
+  "description": "TypeScript tool for A/B testing different Frame designs and tracking conversion.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
